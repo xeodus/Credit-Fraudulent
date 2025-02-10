@@ -4,6 +4,8 @@ Credit-Fraudulent is a machine learning-based project designed to analyze and pr
 # Dataset
 Dataset used for this project is available on https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud.
 
+# Key features of the dataset
+
 - Highly Imbalanced: Only 0.172% of the transactions are fraudulent.
 
 - Principal Component Analysis (PCA) Applied: Most features are transformed components.
